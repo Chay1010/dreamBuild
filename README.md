@@ -15,7 +15,7 @@
 Here is the demonstration recording showing the project in action:
 
 <div align="center">
-  <video src="https://github.com/Chay1010/dreamBuild/raw/main/video.mp4" width="100%" max-width="800px" controls style="border-radius: 12px; border: 1px solid #333; box-shadow: 0 10px 30px rgba(0,200,83,0.2);"></video>
+  <video src="https://github.com/Chay1010/dreamBuild/raw/main/video.mp4" controls width="100%"></video>
 </div>
 
 ---
