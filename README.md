@@ -10,15 +10,22 @@
 
 ---
 
-## 📺 Demo Video
+## 📺 Demo Videos
 
-Witness the power of **VEO 3.1 & Gemini Image** generation directly inside our studio pipeline:
+Here are the demonstration recordings showing the project in action:
 
+### Demo 1: Core Interface & Feature Tour
 <div align="center">
-  <video src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4" width="100%" max-width="800px" autoplay loop muted controls style="border-radius: 12px; border: 1px solid #333; box-shadow: 0 10px 30px rgba(0,200,83,0.2);"></video>
+  <video src="public/assets/demo-recording-1.mp4" width="100%" max-width="800px" controls style="border-radius: 12px; border: 1px solid #333; box-shadow: 0 10px 30px rgba(0,200,83,0.2);"></video>
+</div>
+
+### Demo 2: Studio Visualizer Workflow
+<div align="center">
+  <video src="public/assets/demo-recording-2.mp4" width="100%" max-width="800px" controls style="border-radius: 12px; border: 1px solid #333; box-shadow: 0 10px 30px rgba(0,200,83,0.2);"></video>
 </div>
 
 ---
+
 
 ## ✨ Features
 
