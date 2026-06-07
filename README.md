@@ -10,18 +10,12 @@
 
 ---
 
-## 📺 Demo Videos
+## 📺 Demo Video
 
-Here are the demonstration recordings showing the project in action:
+Here is the demonstration recording showing the project in action:
 
-### Demo 1: Core Interface & Feature Tour
 <div align="center">
-  <video src="./public/assets/demo-recording-1.mp4" width="100%" max-width="800px" controls style="border-radius: 12px; border: 1px solid #333; box-shadow: 0 10px 30px rgba(0,200,83,0.2);"></video>
-</div>
-
-### Demo 2: Studio Visualizer Workflow
-<div align="center">
-  <video src="./public/assets/demo-recording-2.mp4" width="100%" max-width="800px" controls style="border-radius: 12px; border: 1px solid #333; box-shadow: 0 10px 30px rgba(0,200,83,0.2);"></video>
+  <video src="./video.mp4" width="100%" max-width="800px" controls style="border-radius: 12px; border: 1px solid #333; box-shadow: 0 10px 30px rgba(0,200,83,0.2);"></video>
 </div>
 
 ---
